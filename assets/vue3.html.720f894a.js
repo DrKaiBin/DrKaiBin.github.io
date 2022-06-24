@@ -1,0 +1,1 @@
+const e={key:"v-aab864a6",path:"/web/project-manual/manuals/vue3/vue3.html",title:"vue3",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"1",slug:"_1",children:[]},{level:2,title:"2",slug:"_2",children:[]}],git:{updatedTime:1645367697e3},readingTime:{minutes:1,words:10},filePathRelative:"web/project-manual/manuals/vue3/vue3.md"};export{e as data};
